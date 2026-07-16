@@ -13,6 +13,6 @@ FEMS mmicrorbiology (short research and training  funding) https://isme-microbes
 EMBO bioinformatics funding-
 
 
-#exam
+## exam
 mandatory- biometadata, researh development, desigining experiment
 7 of your topics - everyday is a topic so out of 15
