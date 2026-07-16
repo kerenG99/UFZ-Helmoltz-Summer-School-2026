@@ -11,3 +11,8 @@ HMC metadata (training) https://helmholtz-metadaten.de -
 ISME society (competitive)  https://isme-microbes.org
 FEMS mmicrorbiology (short research and training  funding) https://isme-microbes.org
 EMBO bioinformatics funding-
+
+
+#exam
+mandatory- biometadata, researh development, desigining experiment
+7 of your topics - everyday is a topic so out of 15
